@@ -13,7 +13,7 @@ class VendingMachineItem {
         this.quantity = quantity;
         this.calories = calories;
     }
-
+//hi
     public String getName() {
         return name;
     }
