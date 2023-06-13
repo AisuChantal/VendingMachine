@@ -6,6 +6,8 @@ class VendingMachineItem {
     private double price;
     private int quantity;
     private int calories;
+
+    private int trial;
 //hey
 
     public VendingMachineItem(String name, double price, int quantity, int calories) {
